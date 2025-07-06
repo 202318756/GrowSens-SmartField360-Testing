@@ -14,4 +14,3 @@ Feature: US42 - Mostrar beneficios de forma persuasiva
 	| Beneficio 1 |
 	| Beneficio 2 | 
 | Beneficio 3 |
- 
